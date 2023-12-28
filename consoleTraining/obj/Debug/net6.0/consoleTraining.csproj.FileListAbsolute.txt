@@ -1,0 +1,15 @@
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\bin\Debug\net6.0\consoleTraining.exe
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\bin\Debug\net6.0\consoleTraining.deps.json
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\bin\Debug\net6.0\consoleTraining.runtimeconfig.json
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\bin\Debug\net6.0\consoleTraining.dll
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\bin\Debug\net6.0\consoleTraining.pdb
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.csproj.AssemblyReference.cache
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.AssemblyInfoInputs.cache
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.AssemblyInfo.cs
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.csproj.CoreCompileInputs.cache
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.dll
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\refint\consoleTraining.dll
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.pdb
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\consoleTraining.genruntimeconfig.cache
+C:\Users\Asuka\Documents\Visual Studio 2022\consoleTraining\consoleTraining\obj\Debug\net6.0\ref\consoleTraining.dll
