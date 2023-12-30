@@ -12,7 +12,7 @@ namespace consoleTraining
         static string wordReverse = string.Empty;
         static string wordReplace = string.Empty;
         static string wordQuote = string.Empty;
-        static void Main()
+        static void s_Main()
         {
             //Reverse
             Console.WriteLine("Do Exercise string class");
